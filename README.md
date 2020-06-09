@@ -1,2 +1,3 @@
-# Github-example
-This repository is a demonstration on how to create a Github repository an properly set it up
+# Notebooks
+
+This repository contains projects of Data Science and Machine Learning in python. 
